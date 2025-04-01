@@ -6,7 +6,7 @@
 
 package Array;
 
-class Solution {
+class Solution1 {
     public int getSecondLargest(int[] arr) {
         int largest = Integer.MIN_VALUE;
         int secondLargest = Integer.MIN_VALUE;
