@@ -6,7 +6,7 @@
 
 package String;
 
-class Solution {
+class Solution1 {
     public int myAtoi(String s) {
         // Your code here
         int i = 0, n = s.length();
